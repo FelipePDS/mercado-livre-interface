@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/FelipePDS/mercado-livre-interface/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/mercado-livre-interface?style=for-the-badge"></a> 
+    <a href="https://github.com/FelipePDS/mercado-livre-interface/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDs/mercado-livre-interface?style=for-the-badge"></a> 
     <img src="https://img.shields.io/github/repo-size/FelipePDS/mercado-livre-interface?style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=npm&message=v6.14.4&style=for-the-badge&logo=npm&logoColor=white"> 
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&style=for-the-badge&logo=yarn&logoColor=white">
